@@ -1,0 +1,7 @@
+com\dulceria\app\Main.class
+com\dulceria\dao\UsuarioDAO.class
+com\dulceria\view\usuario.class
+com\dulceria\config\ConexionDB.class
+com\dulceria\view\PrincipalView.class
+com\dulceria\view\LoginView.class
+com\dulceria\model\Usuario.class
